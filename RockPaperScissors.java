@@ -17,11 +17,11 @@ public class RockPaperScissors {
         System.out.print("The computer is scissor.");
 
     if (user==0)
-        System.out.print("You are are rock.");
+        System.out.print("You are rock.");
     if (user==1)
-        System.out.print("You are are paper.");
+        System.out.print("You are paper.");
     if (user==2)
-        System.out.print("You are are scissor.");
+        System.out.print("You are scissor.");
     
     if (program==user){
         System.out.print("It is a draw.");
